@@ -23,7 +23,7 @@ Automatically import your daily Readwise highlights into Day One journal with pr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/readwise-to-dayone.git
+   git clone https://github.com/nachtfrost/ReadwiseToDayOne.git
    cd readwise-to-dayone
    ```
 
@@ -33,8 +33,8 @@ Automatically import your daily Readwise highlights into Day One journal with pr
    ```
 
 3. Install Day One CLI if you haven't already:
-   - Download from: https://dayoneapp.com/downloads/dayone-cli.pkg
-   - Install the package
+   - Installation instructions: https://dayoneapp.com/downloads/dayone-cli.pkg
+   - Run the shell script mentioned on the page
    - Verify installation by running `dayone2 --version`
 
 4. Create a `.env` file with your configuration:
