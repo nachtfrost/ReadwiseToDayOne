@@ -89,7 +89,7 @@ Note: Any notes added to the highlight
 
 ## Tag Emoji Mapping
 
-The script includes emoji mappings for common tags:
+The script includes emoji mappings for some tags as example:
 - inspiration -> 💡 Inspiration
 - ai -> 🤖 AI
 - insight -> 🤔 Insight
